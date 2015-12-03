@@ -1,18 +1,19 @@
-title:            Site Title
-description:      Describe your website here.
+title:            faisal's learning blog
+description:      my blog of how I learn
 disqus_shortname: hpstrtheme
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url:
-
+post_assets: images
+general_assets: images
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           faisal
   avatar:         avatar.jpg
   bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  email:          faisal.raja@challoners.org
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
